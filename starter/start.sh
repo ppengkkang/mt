@@ -1,0 +1,1 @@
+java -jar jetty-runner.jar --port 5080 --log mt.log ../target/mt.war
